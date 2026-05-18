@@ -1,7 +1,7 @@
 # python-mini-toolkit-
 Project name: Python-mini-toolkit
 
-My project houses three features that allows you to check if a number is even or odd, so a user would enter a number and the program would then run and print whether it is even or odd, next feature is that it generates random motivation quoates that are stored in a list and the program allows you to calculate a students grade, the user would enter the students score and the program will return A, B, C, D, F depending on the students score.Before this you are greeted with a Main Menu displaying the features I mentioned, you are allowed to choose which feature to use by inserting your input when starting the program ,so you would type in a number and it will call the function based on the number you inserted.
+My project houses three features that allows you to check if a number is even or odd, so a user would enter a number and the program would then run and print whether it is even or odd, next feature is that it generates random motivation quoates that are stored in a list, The program has a number guessing game where the user has a certain amount of turns to guess the number right that is randomized using the random built in module and the program allows you to calculate a students grade, the user would enter the students score and the program will return A, B, C, D, F depending on the students score.Before this you are greeted with a Main Menu displaying the features I mentioned, you are allowed to choose which feature to use by inserting your input when starting the program ,so you would type in a number and it will call the function based on the number you inserted.
 
 Concepts used:
 
