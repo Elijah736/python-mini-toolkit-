@@ -68,8 +68,7 @@ def motivation():
         print(random.choice(generator))
         print('!-----------------------------------------!')
         another = input('Would you like me to generate another one?(y/n)')
-        if another != 'n':
-            print(random.choice(generator))
+        if another != 'y':
             print('!-----------------------------------------!')
             break
 
