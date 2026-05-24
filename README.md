@@ -16,10 +16,17 @@ You can check your current version by running:
 ```bash
 python --version
 ```
+#Concepts used:
+.Variables .if, elif and else statements .Functions .Built in modules and custom modules .While loops .Logical operators .loop control(break) .Comparison operators
 
 
-Contributions:
-Pull requests are welcome. For major changes please open and issue first to discuss  what you would like to change.
+#Challenges faced and future improvements:
+I was hooked trying to figure out why my code was not behving correctly because of logic mistakes, I experienced a bunch of syntax errors, missing bracekts or indentation, It was hard for me to manage my time correctly because I told myself I would like to have this project out by the 19th of May on tuesday so I basically had to rush my project but it turned out fully functional. I really enjoyed making this project I got to learn how to use some of the built in modules like import time and import random and look foward to using it more in the future due to the projects I can make in the future.
+
+Elijah Lategan
+
+
+
 
 
 
